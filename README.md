@@ -40,3 +40,6 @@ Este repositório contém os projetos finais desenvolvidos em Java. Eles impleme
 - **Netflix OSS**: Eureka e outros componentes para resiliência e comunicação.  
 - **Docker**: Para containerização dos serviços.  
 - **Postman**: Para testes de API.
+
+
+**Professor: Luciano Rodrigo Ferreto**
