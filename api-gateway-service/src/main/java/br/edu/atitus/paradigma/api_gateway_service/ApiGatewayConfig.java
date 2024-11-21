@@ -32,7 +32,7 @@ public class ApiGatewayConfig {
 		       .route(rota -> rota
 		    		   .path("/saudacao-service/**")
 		    		   .filters(f -> f
-		    				   .addRequestHeader("Usuario", "Pablo Oliveirax")
+		    				   .addRequestHeader("Usuario", "Pablo Oliveira")
 		    				   .addRequestHeader("Senha", "suaSenhaAqui"))
 		    		   .uri("lb://saudacao-service"))
 		       .build();
